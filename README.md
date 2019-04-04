@@ -21,8 +21,7 @@ covered by a semi-transparent black screen
 
 Running 
 
-git clone https://github.com/kmaulik/Email-Client.git
-
+git clone https://github.com/ritikapatel21/GqllWithReactEmailSearch.git
 npm i
 
 npm start
